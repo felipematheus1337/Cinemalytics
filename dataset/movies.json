@@ -1,0 +1,504 @@
+{
+    "top_movies": [
+      {
+        "rank": 1,
+        "title": "O Poderoso Chefão",
+        "year": 1972,
+        "genre": ["Crime", "Drama"],
+        "director": "Francis Ford Coppola",
+        "cast": ["Marlon Brando", "Al Pacino", "James Caan"],
+        "rating": 9.2,
+        "synopsis": "O patriarca de uma família mafiosa passa o controle de seu império clandestino para seu filho relutante."
+      },
+      {
+        "rank": 2,
+        "title": "Um Sonho de Liberdade",
+        "year": 1994,
+        "genre": ["Drama"],
+        "director": "Frank Darabont",
+        "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+        "rating": 9.3,
+        "synopsis": "Dois homens presos criam um vínculo ao longo de vários anos, encontrando consolo e redenção através de atos de decência comum."
+      },
+      {
+        "rank": 3,
+        "title": "O Cavaleiro das Trevas",
+        "year": 2008,
+        "genre": ["Ação", "Crime", "Drama"],
+        "director": "Christopher Nolan",
+        "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+        "rating": 9.0,
+        "synopsis": "Batman enfrenta o Coringa em uma batalha que testa seus limites físicos e psicológicos."
+      },
+      {
+        "rank": 4,
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "genre": ["Crime", "Drama"],
+        "director": "Quentin Tarantino",
+        "cast": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+        "rating": 8.9,
+        "synopsis": "Histórias interligadas de violência e redenção no submundo de Los Angeles."
+      },
+      {
+        "rank": 5,
+        "title": "Forrest Gump",
+        "year": 1994,
+        "genre": ["Drama", "Romance"],
+        "director": "Robert Zemeckis",
+        "cast": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+        "rating": 8.8,
+        "synopsis": "A vida extraordinária de um homem simples que testemunha eventos históricos cruciais."
+      },
+      {
+        "rank": 6,
+        "title": "A Origem",
+        "year": 2010,
+        "genre": ["Ação", "Ficção Científica"],
+        "director": "Christopher Nolan",
+        "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+        "rating": 8.8,
+        "synopsis": "Um especialista em extração entra na mente de um CEO para plantar uma ideia."
+      },
+      {
+        "rank": 7,
+        "title": "O Senhor dos Anéis: O Retorno do Rei",
+        "year": 2003,
+        "genre": ["Aventura", "Fantasia"],
+        "director": "Peter Jackson",
+        "cast": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
+        "rating": 9.0,
+        "synopsis": "A conclusão épica da jornada para destruir o Um Anel e salvar a Terra-média."
+      },
+      {
+        "rank": 8,
+        "title": "Clube da Luta",
+        "year": 1999,
+        "genre": ["Drama"],
+        "director": "David Fincher",
+        "cast": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
+        "rating": 8.8,
+        "synopsis": "Um clube de luta subterrâneo se transforma em algo muito maior e mais perigoso."
+      },
+      {
+        "rank": 9,
+        "title": "A Lista de Schindler",
+        "year": 1993,
+        "genre": ["Biografia", "Drama", "Histórico"],
+        "director": "Steven Spielberg",
+        "cast": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley"],
+        "rating": 9.0,
+        "synopsis": "A história real de um homem que salvou judeus durante o Holocausto."
+      },
+      {
+        "rank": 10,
+        "title": "Matrix",
+        "year": 1999,
+        "genre": ["Ação", "Ficção Científica"],
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+        "rating": 8.7,
+        "synopsis": "Um hacker descobre a verdade sobre a realidade e seu papel na guerra contra as máquinas."
+      },
+      {
+        "rank": 11,
+        "title": "Os Sete Samurais",
+        "year": 1954,
+        "genre": ["Ação", "Drama"],
+        "director": "Akira Kurosawa",
+        "cast": ["Toshirō Mifune", "Takashi Shimura", "Keiko Tsushima"],
+        "rating": 8.6,
+        "synopsis": "Vilarejistas contratam samurais para protegê-los de bandidos saqueadores."
+      },
+      {
+        "rank": 12,
+        "title": "Cidade de Deus",
+        "year": 2002,
+        "genre": ["Crime", "Drama"],
+        "director": "Fernando Meirelles, Kátia Lund",
+        "cast": ["Alexandre Rodrigues", "Leandro Firmino", "Phellipe Haagensen"],
+        "rating": 8.6,
+        "synopsis": "A vida nas favelas do Rio de Janeiro através das décadas de 1960 até 1980."
+      },
+      {
+        "rank": 13,
+        "title": "Interestelar",
+        "year": 2014,
+        "genre": ["Aventura", "Drama", "Ficção Científica"],
+        "director": "Christopher Nolan",
+        "cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+        "rating": 8.6,
+        "synopsis": "Uma equipe de exploradores viaja através de um buraco de minhoca no espaço."
+      },
+      {
+        "rank": 14,
+        "title": "Parasita",
+        "year": 2019,
+        "genre": ["Comédia", "Drama", "Thriller"],
+        "director": "Bong Joon Ho",
+        "cast": ["Song Kang-ho", "Lee Sun-kyun", "Cho Yeo-jeong"],
+        "rating": 8.6,
+        "synopsis": "Uma família pobre infiltra-se na casa de uma família rica, com consequências imprevistas."
+      },
+      {
+        "rank": 15,
+        "title": "O Silêncio dos Inocentes",
+        "year": 1991,
+        "genre": ["Crime", "Thriller"],
+        "director": "Jonathan Demme",
+        "cast": ["Jodie Foster", "Anthony Hopkins", "Scott Glenn"],
+        "rating": 8.6,
+        "synopsis": "Uma jovem agente do FBI pede ajuda a um assassino canibal para capturar outro serial killer."
+      },
+      {
+        "rank": 16,
+        "title": "A Viagem de Chihiro",
+        "year": 2001,
+        "genre": ["Animação", "Aventura", "Fantasia"],
+        "director": "Hayao Miyazaki",
+        "cast": ["Rumi Hiiragi", "Miyu Irino", "Mari Natsuki"],
+        "rating": 8.6,
+        "synopsis": "Uma menina deve trabalhar num banho sobrenatural para libertar seus pais."
+      },
+      {
+        "rank": 17,
+        "title": "O Resgate do Soldado Ryan",
+        "year": 1998,
+        "genre": ["Drama", "Guerra"],
+        "director": "Steven Spielberg",
+        "cast": ["Tom Hanks", "Matt Damon", "Tom Sizemore"],
+        "rating": 8.6,
+        "synopsis": "Um grupo de soldados embarca numa perigosa missão para resgatar um paraquedista."
+      },
+      {
+        "rank": 18,
+        "title": "Coringa",
+        "year": 2019,
+        "genre": ["Crime", "Drama", "Thriller"],
+        "director": "Todd Phillips",
+        "cast": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz"],
+        "rating": 8.4,
+        "synopsis": "Um comediante fracassado enlouquece e se transforma no criminoso Coringa."
+      },
+      {
+        "rank": 19,
+        "title": "O Iluminado",
+        "year": 1980,
+        "genre": ["Terror", "Drama"],
+        "director": "Stanley Kubrick",
+        "cast": ["Jack Nicholson", "Shelley Duvall", "Danny Lloyd"],
+        "rating": 8.4,
+        "synopsis": "Uma família se isola num hotel durante o inverno, onde forças sobrenaturais afetam o pai."
+      },
+      {
+        "rank": 20,
+        "title": "Django Livre",
+        "year": 2012,
+        "genre": ["Drama", "Western"],
+        "director": "Quentin Tarantino",
+        "cast": ["Jamie Foxx", "Christoph Waltz", "Leonardo DiCaprio"],
+        "rating": 8.5,
+        "synopsis": "Um ex-escravo e um caçador de recompensas alemão perseguem criminosos no sul dos EUA."
+      },
+      {
+        "rank": 21,
+        "title": "Tubarão",
+        "year": 1975,
+        "genre": ["Aventura", "Thriller"],
+        "director": "Steven Spielberg",
+        "cast": ["Roy Scheider", "Robert Shaw", "Richard Dreyfuss"],
+        "rating": 8.1,
+        "synopsis": "Um grande tubarão branco aterroriza uma pequena cidade balneária."
+      },
+      {
+        "rank": 22,
+        "title": "O Lobo de Wall Street",
+        "year": 2013,
+        "genre": ["Biografia", "Comédia", "Crime"],
+        "director": "Martin Scorsese",
+        "cast": ["Leonardo DiCaprio", "Jonah Hill", "Margot Robbie"],
+        "rating": 8.2,
+        "synopsis": "A ascensão e queda do corretor da bolsa Jordan Belfort."
+      },
+      {
+        "rank": 23,
+        "title": "Gladiador",
+        "year": 2000,
+        "genre": ["Ação", "Drama"],
+        "director": "Ridley Scott",
+        "cast": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"],
+        "rating": 8.5,
+        "synopsis": "Um general romano traído busca vingança como gladiador."
+      },
+      {
+        "rank": 24,
+        "title": "Os Infiltrados",
+        "year": 2006,
+        "genre": ["Crime", "Drama", "Thriller"],
+        "director": "Martin Scorsese",
+        "cast": ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson"],
+        "rating": 8.5,
+        "synopsis": "Um policial se infiltra na máfia enquanto um mafioso se infiltra na polícia."
+      },
+      {
+        "rank": 25,
+        "title": "Os Bons Companheiros",
+        "year": 1990,
+        "genre": ["Biografia", "Crime", "Drama"],
+        "director": "Martin Scorsese",
+        "cast": ["Robert De Niro", "Ray Liotta", "Joe Pesci"],
+        "rating": 8.7,
+        "synopsis": "A ascensão e queda de Henry Hill no mundo do crime organizado."
+      },
+      {
+        "rank": 26,
+        "title": "O Pianista",
+        "year": 2002,
+        "genre": ["Biografia", "Drama", "Música"],
+        "director": "Roman Polanski",
+        "cast": ["Adrien Brody", "Thomas Kretschmann", "Frank Finlay"],
+        "rating": 8.5,
+        "synopsis": "Um pianista judeu sobrevive ao Holocausto em Varsóvia."
+      },
+      {
+        "rank": 27,
+        "title": "O Fabuloso Destino de Amélie Poulain",
+        "year": 2001,
+        "genre": ["Comédia", "Romance"],
+        "director": "Jean-Pierre Jeunet",
+        "cast": ["Audrey Tautou", "Mathieu Kassovitz", "Rufus"],
+        "rating": 8.3,
+        "synopsis": "Uma jovem excêntrica decide mudar a vida das pessoas ao seu redor em Paris."
+      },
+      {
+        "rank": 28,
+        "title": "O Grande Truque",
+        "year": 2006,
+        "genre": ["Drama", "Mistério", "Thriller"],
+        "director": "Christopher Nolan",
+        "cast": ["Christian Bale", "Hugh Jackman", "Scarlett Johansson"],
+        "rating": 8.5,
+        "synopsis": "Dois mágicos rivais envolvem-se numa batalha obsessiva com consequências trágicas."
+      },
+      {
+        "rank": 29,
+        "title": "Whiplash: Em Busca da Perfeição",
+        "year": 2014,
+        "genre": ["Drama", "Música"],
+        "director": "Damien Chazelle",
+        "cast": ["Miles Teller", "J.K. Simmons", "Paul Reiser"],
+        "rating": 8.5,
+        "synopsis": "Um jovem baterista enfrenta um professor de música implacável em uma escola de elite."
+      },
+      {
+        "rank": 30,
+        "title": "Psicose",
+        "year": 1960,
+        "genre": ["Horror", "Mistério", "Thriller"],
+        "director": "Alfred Hitchcock",
+        "cast": ["Anthony Perkins", "Janet Leigh", "Vera Miles"],
+        "rating": 8.5,
+        "synopsis": "Uma secretária foge após roubar dinheiro e se hospeda num hotel administrado por um homem perturbado."
+      },
+      {
+        "rank": 31,
+        "title": "A Vida é Bela",
+        "year": 1997,
+        "genre": ["Comédia", "Drama", "Guerra"],
+        "director": "Roberto Benigni",
+        "cast": ["Roberto Benigni", "Nicoletta Braschi", "Giorgio Cantarini"],
+        "rating": 8.6,
+        "synopsis": "Um pai judeu usa sua imaginação para proteger seu filho dos horrores de um campo de concentração."
+      },
+      {
+        "rank": 32,
+        "title": "O Sexto Sentido",
+        "year": 1999,
+        "genre": ["Drama", "Mistério", "Thriller"],
+        "director": "M. Night Shyamalan",
+        "cast": ["Bruce Willis", "Haley Joel Osment", "Toni Collette"],
+        "rating": 8.2,
+        "synopsis": "Um menino que vê mortos busca a ajuda de um psicólogo infantil."
+      },
+      {
+        "rank": 33,
+        "title": "Taxi Driver",
+        "year": 1976,
+        "genre": ["Crime", "Drama"],
+        "director": "Martin Scorsese",
+        "cast": ["Robert De Niro", "Jodie Foster", "Cybill Shepherd"],
+        "rating": 8.3,
+        "synopsis": "Um veterano do Vietnã mentalmente instável trabalha como taxista em Nova York."
+      },
+      {
+        "rank": 34,
+        "title": "Blade Runner",
+        "year": 1982,
+        "genre": ["Ação", "Ficção Científica", "Thriller"],
+        "director": "Ridley Scott",
+        "cast": ["Harrison Ford", "Rutger Hauer", "Sean Young"],
+        "rating": 8.2,
+        "synopsis": "Um caçador de androides deve encontrar e retirar de circulação replicantes fugitivos."
+      },
+      {
+        "rank": 35,
+        "title": "Os Caçadores da Arca Perdida",
+        "year": 1981,
+        "genre": ["Ação", "Aventura"],
+        "director": "Steven Spielberg",
+        "cast": ["Harrison Ford", "Karen Allen", "Paul Freeman"],
+        "rating": 8.4,
+        "synopsis": "O arqueólogo Indiana Jones é contratado para encontrar a Arca da Aliança antes dos nazistas."
+      },
+      {
+        "rank": 36,
+        "title": "Amnésia",
+        "year": 2000,
+        "genre": ["Mistério", "Thriller"],
+        "director": "Christopher Nolan",
+        "cast": ["Guy Pearce", "Carrie-Anne Moss", "Joe Pantoliano"],
+        "rating": 8.4,
+        "synopsis": "Um homem com amnésia de curto prazo usa fotos e tatuagens para caçar o assassino de sua esposa."
+      },
+      {
+        "rank": 37,
+        "title": "Os Suspeitos",
+        "year": 1995,
+        "genre": ["Crime", "Drama", "Mistério"],
+        "director": "Bryan Singer",
+        "cast": ["Kevin Spacey", "Gabriel Byrne", "Chazz Palminteri"],
+        "rating": 8.5,
+        "synopsis": "O único sobrevivente de um tiroteio conta a história de como cinco criminosos se conheceram."
+      },
+      {
+        "rank": 38,
+        "title": "Scarface",
+        "year": 1983,
+        "genre": ["Crime", "Drama"],
+        "director": "Brian De Palma",
+        "cast": ["Al Pacino", "Michelle Pfeiffer", "Steven Bauer"],
+        "rating": 8.3,
+        "synopsis": "Um refugiado cubano sobe na hierarquia do tráfico de drogas em Miami."
+      },
+      {
+        "rank": 39,
+        "title": "Wall-E",
+        "year": 2008,
+        "genre": ["Animação", "Aventura", "Família"],
+        "director": "Andrew Stanton",
+        "cast": ["Ben Burtt", "Elissa Knight", "Jeff Garlin"],
+        "rating": 8.4,
+        "synopsis": "No futuro distante, um pequeno robô de limpeza embarca numa jornada que decidirá o destino da humanidade."
+      },
+      {
+        "rank": 40,
+        "title": "Os Imperdoáveis",
+        "year": 1992,
+        "genre": ["Drama", "Western"],
+        "director": "Clint Eastwood",
+        "cast": ["Clint Eastwood", "Gene Hackman", "Morgan Freeman"],
+        "rating": 8.2,
+        "synopsis": "Um velho pistoleiro sai da aposentadoria para uma última missão."
+      },
+      {
+        "rank": 41,
+        "title": "O Labirinto do Fauno",
+        "year": 2006,
+        "genre": ["Drama", "Fantasia", "Guerra"],
+        "director": "Guillermo del Toro",
+        "cast": ["Ivana Baquero", "Ariadna Gil", "Sergi López"],
+        "rating": 8.2,
+        "synopsis": "Na Espanha pós-guerra civil, uma menina descobre um mundo mágico enquanto enfrenta a cruel realidade."
+      },
+      {
+        "rank": 42,
+        "title": "O Rei Leão",
+        "year": 1994,
+        "genre": ["Animação", "Aventura", "Drama"],
+        "director": "Roger Allers, Rob Minkoff",
+        "cast": ["Matthew Broderick", "Jeremy Irons", "James Earl Jones"],
+        "rating": 8.5,
+        "synopsis": "O príncipe leão Simba luta para recuperar seu reino do usurpador Scar."
+      },
+      {
+        "rank": 43,
+        "title": "Alien: O Oitavo Passageiro",
+        "year": 1979,
+        "genre": ["Horror", "Ficção Científica"],
+        "director": "Ridley Scott",
+        "cast": ["Sigourney Weaver", "Tom Skerritt", "John Hurt"],
+        "rating": 8.5,
+        "synopsis": "A tripulação de uma nave espacial enfrenta uma criatura mortal que embarcou a bordo."
+      },
+      {
+        "rank": 44,
+        "title": "Cidadão Kane",
+        "year": 1941,
+        "genre": ["Drama", "Mistério"],
+        "director": "Orson Welles",
+        "cast": ["Orson Welles", "Joseph Cotten", "Dorothy Comingore"],
+        "rating": 8.3,
+        "synopsis": "A vida e legado do magnata da mídia Charles Foster Kane são investigados por um repórter."
+      },
+      {
+        "rank": 45,
+        "title": "Apocalypse Now",
+        "year": 1979,
+        "genre": ["Drama", "Guerra"],
+        "director": "Francis Ford Coppola",
+        "cast": ["Martin Sheen", "Marlon Brando", "Robert Duvall"],
+        "rating": 8.5,
+        "synopsis": "Durante a Guerra do Vietnã, um capitão é enviado em uma missão para assassinar um coronel renegado."
+      },
+      {
+        "rank": 46,
+        "title": "O Profissional",
+        "year": 1994,
+        "genre": ["Ação", "Crime", "Drama"],
+        "director": "Luc Besson",
+        "cast": ["Jean Reno", "Gary Oldman", "Natalie Portman"],
+        "rating": 8.5,
+        "synopsis": "Um assassino de aluguel aceita proteger uma menina cuja família foi assassinada por um agente corrupto."
+      },
+      {
+        "rank": 47,
+        "title": "Indiana Jones e o Última Cruzada",
+        "year": 1989,
+        "genre": ["Ação", "Aventura"],
+        "director": "Steven Spielberg",
+        "cast": ["Harrison Ford", "Sean Connery", "Alison Doody"],
+        "rating": 8.3,
+        "synopsis": "Indiana Jones embarca numa jornada para encontrar o Santo Graal e resgatar seu pai sequestrado."
+      },
+      {
+        "rank": 48,
+        "title": "Era Uma Vez no Oeste",
+        "year": 1968,
+        "genre": ["Western"],
+        "director": "Sergio Leone",
+        "cast": ["Henry Fonda", "Charles Bronson", "Claudia Cardinale"],
+        "rating": 8.5,
+        "synopsis": "Um misterioso estranho protege uma viúva de um assassino impiedoso."
+      },
+      {
+        "rank": 49,
+        "title": "O Exterminador do Futuro 2: O Julgamento Final",
+        "year": 1991,
+        "genre": ["Ação", "Ficção Científica"],
+        "director": "James Cameron",
+        "cast": ["Arnold Schwarzenegger", "Linda Hamilton", "Edward Furlong"],
+        "rating": 8.6,
+        "synopsis": "Um ciborgue é enviado do futuro para proteger o jovem John Connor de um assassino mais avançado."
+      },
+      {
+        "rank": 50,
+        "title": "Toy Story",
+        "year": 1995,
+        "genre": ["Animação", "Aventura", "Comédia"],
+        "director": "John Lasseter",
+        "cast": ["Tom Hanks", "Tim Allen", "Don Rickles"],
+        "rating": 8.3,
+        "synopsis": "Os brinquedos de um menino ganham vida quando ele não está olhando, e enfrentam uma crise existencial."
+      }
+    ]
+  }
